@@ -1,0 +1,26 @@
+﻿C:\Programs\Visual Studio2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: 正在首次将属性“WindowsTargetPlatformVersion”设置为某个值，但已在“C:\Programs\Visual Studio2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)”处使用了该属性。
+  display.cpp
+d:\codes\datastructurecode\dsa\src\skiplist\QuadlistNode_insert.h(12): warning C5037: QuadlistNode<T>::insertAsSuccAbove: 类模板的成员的外部定义不得具有默认参数
+d:\codes\datastructurecode\dsa\src\skiplist\Quadlist_insert.h(12): warning C5037: Quadlist<T>::insertAfterAbove: 类模板的成员的外部定义不得具有默认参数
+d:\codes\datastructurecode\dsa\src\uniprint\Print_traversable.h(16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“Stack<char> *”
+  d:\codes\datastructurecode\dsa\src\nest_stack\../UniPrint/print.h(34): note: 参见对正在编译的函数 模板 实例化“void UniPrint::p<T>(T &)”的引用
+          with
+          [
+              T=Stack<char>
+          ]
+  ..\nest_recursive\display.cpp(30): note: 参见对正在编译的函数 模板 实例化“void print<Stack<char>>(T &)”的引用
+          with
+          [
+              T=Stack<char>
+          ]
+  print_basic.cpp
+d:\codes\datastructurecode\dsa\src\skiplist\QuadlistNode_insert.h(12): warning C5037: QuadlistNode<T>::insertAsSuccAbove: 类模板的成员的外部定义不得具有默认参数
+d:\codes\datastructurecode\dsa\src\skiplist\Quadlist_insert.h(12): warning C5037: Quadlist<T>::insertAfterAbove: 类模板的成员的外部定义不得具有默认参数
+  main.cpp
+d:\codes\datastructurecode\dsa\src\skiplist\QuadlistNode_insert.h(12): warning C5037: QuadlistNode<T>::insertAsSuccAbove: 类模板的成员的外部定义不得具有默认参数
+d:\codes\datastructurecode\dsa\src\skiplist\Quadlist_insert.h(12): warning C5037: Quadlist<T>::insertAfterAbove: 类模板的成员的外部定义不得具有默认参数
+  nest.cpp
+d:\codes\datastructurecode\dsa\src\skiplist\QuadlistNode_insert.h(12): warning C5037: QuadlistNode<T>::insertAsSuccAbove: 类模板的成员的外部定义不得具有默认参数
+d:\codes\datastructurecode\dsa\src\skiplist\Quadlist_insert.h(12): warning C5037: Quadlist<T>::insertAfterAbove: 类模板的成员的外部定义不得具有默认参数
+  正在生成代码...
+  paren_stack.vcxproj -> D:\Codes\DataStructureCode\dsa\src\Release\nest_stack.exe

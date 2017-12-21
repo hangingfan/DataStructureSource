@@ -1,0 +1,12 @@
+﻿C:\Programs\Visual Studio2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: 正在首次将属性“WindowsTargetPlatformVersion”设置为某个值，但已在“C:\Programs\Visual Studio2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)”处使用了该属性。
+  Shuffle.cpp
+  reverse-iterative-1.cpp
+  reverse.cpp
+  print_int_array.cpp
+  main.cpp
+C:\Programs\Visual Studio2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: 正在首次将属性“WindowsTargetPlatformVersion”设置为某个值，但已在“C:\Programs\Visual Studio2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)”处使用了该属性。
+  sum0.cpp
+  sum1.cpp
+  sum2.cpp
+  正在生成代码...
+  sum.vcxproj -> D:\Codes\DataStructureCode\dsa\src\Release\sum.exe

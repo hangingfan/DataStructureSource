@@ -1,0 +1,11 @@
+﻿C:\Programs\Visual Studio2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: 正在首次将属性“WindowsTargetPlatformVersion”设置为某个值，但已在“C:\Programs\Visual Studio2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)”处使用了该属性。
+  main.cpp
+C:\Programs\Visual Studio2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: 正在首次将属性“WindowsTargetPlatformVersion”设置为某个值，但已在“C:\Programs\Visual Studio2017\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)”处使用了该属性。
+  Power0.cpp
+  Power1.cpp
+  Power2-0-I.cpp
+  Power2-0-R.cpp
+  Power2-1-I.cpp
+  Power2-1-R.cpp
+  正在生成代码...
+  power.vcxproj -> D:\Codes\DataStructureCode\dsa\src\Release\power.exe
